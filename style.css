@@ -98,6 +98,6 @@ img { border-radius: 30%
     text-decoration: none;
     
 }
-#blog-content > article > p {
+#blog-content > article > main > p {
     font-weight: bold;
 }

@@ -81,8 +81,11 @@ body > footer {
     display: flex;
 }
 
-img { border-radius: 30%
-    ;}
+img { 
+    border-radius: 10%;
+    width: 500px;
+    height: 1200px;
+    }
 
 #footer-ul {
     display: flex ;
@@ -98,6 +101,8 @@ img { border-radius: 30%
     text-decoration: none;
     
 }
+
 #blog-content > article > main > p {
     font-weight: bold;
+    font-size: larger;
 }

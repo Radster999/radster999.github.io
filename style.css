@@ -106,7 +106,7 @@ aside {
     justify-content: center;
 }
 
-.section {
+.aside > section {
     margin-bottom: 30px;
 }
 

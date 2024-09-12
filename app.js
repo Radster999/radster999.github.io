@@ -4,7 +4,7 @@ function resizeImage() {
     image.height = 200
 }
 function resizeImage() {
-    const image = document.getElementById(images/midweek-lineup.png)
+    const image = document.getElementById(images/mid-lineup.png)
     image.width = 20%;
     image.height = 200
 }

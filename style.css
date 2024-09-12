@@ -109,9 +109,17 @@ aside {
 .aside > section > image1 {
     margin-top: 150px;
     margin-bottom: 30px;
+    width: 100%;    
+    height: auto; 
+    display: block; 
+    object-fit: cover;
 }
 
 .aside > section > image2 {
     margin-top: 150px;
     margin-bottom: 30px;
+    width: 100%;    
+    height: auto; 
+    display: block; 
+    object-fit: cover;
 }

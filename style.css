@@ -81,12 +81,6 @@ body > footer {
     display: flex;
 }
 
-img { 
-    border-radius: 10%;
-    width: 500px;
-    height: 1200px;
-    }
-
 #footer-ul {
     display: flex ;
     list-style: none;

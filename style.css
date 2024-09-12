@@ -1,6 +1,6 @@
 body {  
     font-family: Helvetica, Arial, sans-serif;
-    margin: 0px;
+    margin: 20px;
     background-color: antiquewhite;
     font-size: 1.5vw;
 }
@@ -64,7 +64,7 @@ body > main > article {
 }
 
 #main-content > div{
-    width: 85%;
+    width: 70%;
     justify-content: space-around;
 }
 
@@ -99,4 +99,9 @@ body > footer {
 #blog-content > article > main > p {
     font-weight: bold;
     font-size: larger;
+}
+
+aside {
+    width: 20%;
+    justify-content: center;
 }

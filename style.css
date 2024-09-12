@@ -106,7 +106,12 @@ aside {
     justify-content: center;
 }
 
-.aside > section {
+.aside > section > image1 {
+    margin-top: 150px;
     margin-bottom: 30px;
 }
 
+.aside > section > image2 {
+    margin-top: 150px;
+    margin-bottom: 30px;
+}

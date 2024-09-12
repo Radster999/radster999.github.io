@@ -110,14 +110,3 @@ aside {
     margin-bottom: 30px;
 }
 
-.flex-container-1 {
-    display: flex;
-    align-items: flex-start;
-    margin: 20px 0;
-}
-
-.flex-container-1 img {
-    margin-left: 10px;
-    width: 150px;
-    height: auto;
-}

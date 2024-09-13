@@ -137,3 +137,7 @@ aside {
     max-width: fit-content;
     height: auto;
 }
+
+.image-title {
+    align-items: center;
+}

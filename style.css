@@ -123,3 +123,17 @@ aside {
     display: block; 
     object-fit: cover;
 }
+
+.image-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+}
+
+.image-section img {
+    width: 100%;
+    max-width: fit-content;
+    height: auto;
+}
